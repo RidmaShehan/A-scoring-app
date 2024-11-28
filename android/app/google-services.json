@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1011733196768",
+    "project_id": "scoreapp-87d8a",
+    "storage_bucket": "scoreapp-87d8a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011733196768:android:5e9c6cf95570a36f8f4585",
+        "android_client_info": {
+          "package_name": "com.example.scoring_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011733196768-pvbpaqvhj412kbtjiuepspd37kfmg8od.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.scoring_app",
+            "certificate_hash": "64913746ef59086b7b64fc3d88f6f058ee0df574"
+          }
+        },
+        {
+          "client_id": "1011733196768-th8jq0tfhj6b575mhut4tp5pqkco7gp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqSNaMxhenJzhR23D6jj8N63lPfQyoieA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011733196768-th8jq0tfhj6b575mhut4tp5pqkco7gp6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1011733196768-cftb22e9pdk84mu1b5d1fqrtmfs8nj7j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.scoringApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
